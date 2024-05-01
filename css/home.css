@@ -500,12 +500,6 @@
 	----------------------------------------------- */
 
 	.intro__image--no01 {
-		background-image: url("../images/main-visual-05.jpg");
-	}
-	.intro__image--no02 {
-		background-image: url("../images/main-visual-03.jpg");
-	}
-	.intro__image--no03 {
 		background-image: url("../images/main-visual-01.jpg");
 	}
 	.intro__list a {
@@ -543,13 +537,7 @@
 	/* wide */
 
 	.js-intro-wide .intro__image--no01 {
-		background-image: url("../images/main-visual-05.jpg");
-	}
-	.js-intro-wide .intro__image--no02 {
-		background-image: url("../images/main-visual-04.jpg");
-	}
-	.js-intro-wide .intro__image--no03 {
-		background-image: url("../images/main-visual-02.jpg");
+		background-image: url("../images/main-visual-01.jpg");
 	}
 
 
@@ -662,13 +650,7 @@
 		height: 667px;
 	}
 	.intro__image--no01 {
-		background-image: url("../images/main-visual-05.jpg");
-	}
-	.intro__image--no02 {
-		background-image: url("../images/main-visual-04.jpg");
-	}
-	.intro__image--no03 {
-		background-image: url("../images/main-visual-02.jpg");
+		background-image: url("../images/main-visual-01.jpg");
 	}
 	.intro__nav {
 		/* display: none; */
