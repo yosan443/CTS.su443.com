@@ -500,7 +500,7 @@
 	----------------------------------------------- */
 
 	.intro__image--no01 {
-		background-image: url("../images/main-visual-01.jpg");
+		background-image: url("../images/main-visual-01.webp");
 	}
 	.intro__list a {
 		position: relative;
@@ -537,7 +537,7 @@
 	/* wide */
 
 	.js-intro-wide .intro__image--no01 {
-		background-image: url("../images/main-visual-01.jpg");
+		background-image: url("../images/main-visual-01.webp");
 	}
 
 
@@ -650,7 +650,7 @@
 		height: 667px;
 	}
 	.intro__image--no01 {
-		background-image: url("../images/main-visual-01.jpg");
+		background-image: url("../images/main-visual-01.webp");
 	}
 	.intro__nav {
 		/* display: none; */
