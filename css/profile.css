@@ -46,7 +46,7 @@
     background-position: top;
 	background-size: cover;
 	overflow: hidden;
-    background-image: url("../images/profile_contents_image.jpg");
+    background-image: url("../images/sub.webp");
     z-index: 1;
 }
 .profile__image span.abe__image:after {
